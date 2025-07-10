@@ -1,0 +1,20 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.header {
+  font-size: 32px;
+  color: black;
+  text-align: center;
+  font-family: Verdana, sans-serif;
+}
+
+img {
+  width: 400px;
+  height: 400px;
+  margin: 4px;
+  object-fit: cover;
+}
